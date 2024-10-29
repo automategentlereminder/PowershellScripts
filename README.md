@@ -36,6 +36,8 @@ Here are some tasks that can be automated using PowerShell:
 - User management (creating and managing user accounts).
 - Scheduled tasks (running scripts at specific times).
 
+- Let me know if you want us to create more of these.
+
 ## Further Resources
 
 For more tips and tricks on automation, please refer to our website: [gentlereminder.in](#).
