@@ -40,7 +40,7 @@ Here are some tasks that can be automated using PowerShell:
 
 ## Further Resources
 
-For more tips and tricks on automation, please refer to our website: [gentlereminder.in](#).
+For more tips and tricks on automation, please refer to our website: [gentlereminder.in](https://gentlereminder.in).
 
 ## Contributing
 
