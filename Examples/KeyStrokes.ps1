@@ -1,3 +1,6 @@
+# Load necessary assemblies for Windows Forms
+Add-Type -AssemblyName System.Windows.Forms
+
 # Function to send keystrokes
 Function Send-KeyStroke {
     param (
