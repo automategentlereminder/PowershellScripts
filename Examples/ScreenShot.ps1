@@ -1,3 +1,8 @@
+# Load necessary assemblies for Windows Forms
+Add-Type -AssemblyName System.Windows.Forms
+Add-Type -AssemblyName System.Drawing
+
+
 # Function to take a screenshot and save it
 Function Take-Screenshot {
     param (
